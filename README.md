@@ -1,1 +1,0 @@
-# counter-application-1
